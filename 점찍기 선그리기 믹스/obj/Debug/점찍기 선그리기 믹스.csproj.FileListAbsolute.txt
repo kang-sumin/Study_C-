@@ -1,0 +1,11 @@
+D:\Github\Study_C_Sharp\점찍기 선그리기 믹스\obj\Debug\점찍기 선그리기 믹스.csprojAssemblyReference.cache
+D:\Github\Study_C_Sharp\점찍기 선그리기 믹스\obj\Debug\점찍기_선그리기_믹스.Form1.resources
+D:\Github\Study_C_Sharp\점찍기 선그리기 믹스\obj\Debug\점찍기_선그리기_믹스.Form2.resources
+D:\Github\Study_C_Sharp\점찍기 선그리기 믹스\obj\Debug\점찍기_선그리기_믹스.Properties.Resources.resources
+D:\Github\Study_C_Sharp\점찍기 선그리기 믹스\obj\Debug\점찍기 선그리기 믹스.csproj.GenerateResource.cache
+D:\Github\Study_C_Sharp\점찍기 선그리기 믹스\obj\Debug\점찍기 선그리기 믹스.csproj.CoreCompileInputs.cache
+D:\Github\Study_C_Sharp\점찍기 선그리기 믹스\bin\Debug\점찍기 선그리기 믹스.exe.config
+D:\Github\Study_C_Sharp\점찍기 선그리기 믹스\bin\Debug\점찍기 선그리기 믹스.exe
+D:\Github\Study_C_Sharp\점찍기 선그리기 믹스\bin\Debug\점찍기 선그리기 믹스.pdb
+D:\Github\Study_C_Sharp\점찍기 선그리기 믹스\obj\Debug\점찍기 선그리기 믹스.exe
+D:\Github\Study_C_Sharp\점찍기 선그리기 믹스\obj\Debug\점찍기 선그리기 믹스.pdb
